@@ -35,6 +35,12 @@
 
 </script>
 
+<svelte:head>
+    <title>Funamaker || usalo con precaución</title>
+    <meta name="description" content="Funamaker es una plataforma para hacer carpetazos o funas a gente de twitter" />
+    <meta name="keywords" content="Funamaker, funa, carpetazomaker, carpetazo" />
+</svelte:head>
+
 <style>
     *{
         margin: 0;
